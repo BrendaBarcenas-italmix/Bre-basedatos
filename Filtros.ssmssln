@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Filtros", "Filtros\Filtros.ssmssqlproj", "{ED1C6F8B-CB07-4A05-A77C-4BEEFB324268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1C6F8B-CB07-4A05-A77C-4BEEFB324268}.Default|Default.ActiveCfg = Default
+		{21CAB11A-2739-49D3-BC3E-CB6E1F559F37}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C69CAF0-525F-4F44-BE13-F57FF451E776}
+	EndGlobalSection
+EndGlobal
